@@ -9,8 +9,7 @@ The dataset used for this project contains detailed information on job titles, l
 *   **Visual Studio Code:** The primary text editor used for writing scripts and managing version control.
 *   **Git & GitHub:** Utilized for tracking changes, resolving repository configuration errors, and hosting the project files publicly.
 
-# The analysis
-# The Analysis
+# The Analysis.
 
 This project executes a multi-layered data analysis to break down the global, remote economic landscape for data professionals. Rather than treating market insights as a single query, the analysis is divided into sequential investigative phases. Each step targets specific business questions regarding salary ceilings, core skill demand, and underlying technology configurations.
 

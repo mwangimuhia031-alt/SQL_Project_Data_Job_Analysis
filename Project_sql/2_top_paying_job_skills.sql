@@ -26,7 +26,6 @@ WITH top_paying_jobs AS (
         salary_year_avg IS NOT NULL
     ORDER BY
         salary_year_avg DESC
-    LIMIT 20
 )
 
 SELECT 
